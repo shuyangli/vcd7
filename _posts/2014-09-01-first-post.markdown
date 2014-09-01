@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      First post!
+title:      First post
 date:       2014-09-01 14:30:00
-summary:    My first experience with AfterEffects!
+summary:    My first experience with analyzing user interface, and also with AfterEffects
 categories: general
 ---
 
