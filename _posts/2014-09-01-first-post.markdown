@@ -17,6 +17,7 @@ The controls are AWFUL!
 Well, they're not the worst I've seen, but in general these projection controls are difficult to work with. There're usually a million buttons all over the place, and no one ever uses all of them.
 
 For this specific box, there are some tricks, as usual:
+
 * You need to know if you're using VGA or HDMI, and I assume not many people even know they are different;
 * You have to press "Join Rooms" before choosing the source, or things will break;
 * The volume knob is very gentle, and you have to roll it very far to make the volume up.
