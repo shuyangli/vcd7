@@ -1,3 +1,3 @@
-# Shuyang's Blog
+# Shuyang’s VCD7 Class Docs
 
-This site is live at [http://shuyang.li/blog](http://shuyang.li/blog/)!
+This site is live at [http://shuyang.li/vcd7](http://shuyang.li/vcd7/)!

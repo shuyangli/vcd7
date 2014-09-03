@@ -10,7 +10,7 @@ I'm super excited to take the [VCD7: Interaction Design](http://www3.nd.edu/~amu
 
 The controls are AWFUL!
 
-![Mirroring Controls]({{ site.url }}{{ site.baseurl }}/assets/west-lake-controls.jpg)
+![Mirroring Controls]({{ site.url }}{{ site.baseurl }}/assets/20140901-west-lake-controls.jpg)
 <span class="small mid-gray">Mirroring Controls</span>
 
 
@@ -18,9 +18,9 @@ Well, they're not the worst I've seen, but in general these projection controls 
 
 For this specific box, there are some tricks, as usual:
 
-* You need to know if you're using VGA or HDMI, and I assume not many people even know they are different;
-* You have to press "Join Rooms" before choosing the source, or things will break;
-* The volume knob is very gentle, and you have to roll it very far to make the volume up.
+- You need to know if you're using VGA or HDMI, and I assume not many people even know they are different;
+- You have to press "Join Rooms" before choosing the source, or things will break;
+- The volume knob is very gentle, and you have to roll it very far to make the volume up.
 
 So for this exercise, we made a quick movie with AfterEffects to show how the process works:
 
