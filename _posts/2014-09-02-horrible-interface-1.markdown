@@ -13,7 +13,7 @@ Look at these magical control panels—
 ![A/C Thermostat Controls]({{ site.url }}{{ site.baseurl }}/assets/20140902-ac-thermostat-full.jpg)
 <span class="small mid-gray">A/C Thermostat Controls</span>
 
-There you have it. Yes, it is very simplistic (which is usually good), and looks somewhat Art Deco, but they somehow managed to create confusion even with such a simple interface.
+There you have it. Yes, it is very simplistic (which is usually good), and looks somewhat Art Deco, but the designers somehow managed to create confusion even with such a simple interface.
 
 ## Current Issues
 
