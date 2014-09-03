@@ -22,7 +22,7 @@ _Really?_
     - Hello, I want a _Scanna-ble!_
     - The buttons on the left look completely randomly thrown together;
     - Why do some buttons have icons, and others don't?
-    - People seldom use the number pad, so where is it there?
+    - People seldom use the number pad, so why is it there?
 
 - The __color__ is all wrong! Do they mean anything, or are the colors randomly jammed together as well?
 
