@@ -28,8 +28,8 @@ There you have it. Yes, it is very simplistic (which is usually good), and looks
     - Will the A/C and the radiator both work at the same time?
     - And… what is the knob below? Do they control the same thing?
 
-    ![A/C Thermostat Close-up]({{ site.url }}{{ site.baseurl }}/assets/20140902-ac-thermostat-closeup.jpg)
-    <span class="small mid-gray">A/C Thermostat Close-up</span>
+![A/C Thermostat Close-up]({{ site.url }}{{ site.baseurl }}/assets/20140902-ac-thermostat-closeup.jpg)
+<span class="small mid-gray">A/C Thermostat Close-up</span>
 
 - How should I read the thermostat?  
     - Why is there a tick, _and also_ a black dot?
