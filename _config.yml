@@ -7,7 +7,7 @@ baseurl: "/vcd7" # the subpath of your site, e.g. /blog/
 url: "http://shuyang.li" # the base hostname & protocol for your site
 twitter_username: shuyangl
 github_username:  shuyangli
-google_analytics:
+google_analytics: UA-49301476-1
 
 # Build settings
 markdown: kramdown
