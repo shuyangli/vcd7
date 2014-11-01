@@ -3,7 +3,7 @@ layout:     post
 title:      Prototype is Live!
 date:       2014-10-23 20:00:00
 summary:    The prototype of my new Starbucks register interface is live. Check it out!
-categories: generative-research research
+categories: evaluative-research research
 ---
 
 Although I haven't published the concept presentation board yet (stay tuned, it's coming), I decided to make my design prototype public so you can play with it as I develop it!
