@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Interactive Widget Ideation
-date:       2014-12-10 20:00:00
+date:       2014-12-01 20:00:00
 summary:    What should I make for the interactive widget?
 categories: interactive-widget research
 ---
