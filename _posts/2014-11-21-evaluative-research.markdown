@@ -9,6 +9,7 @@ categories: evaluative-research design
 My evaluative research on the redesign of my Starbucks register is done. Seems like there are still some minor confusions, but there's definitely an overall usability improvement.
 
 Minor confusions observed and recorded:
+
 - It's not obvious how to customize a drink; it takes a second try to realize that the cells on the order list are tappable;
 - The image associated with "custom" button is confusing, and doesn't show the fact that "custom" means "custom price";
 - It's not clear when to reload a Starbucks card with credit card, we should swipe the Starbucks card first or the card first.
