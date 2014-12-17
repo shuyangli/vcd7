@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      BeatBox™: It works!
+title:      BeatBox™: It works
 date:       2014-12-16 20:00:00
 summary:    The BeatBox Works!
 categories: interactive-widget build
